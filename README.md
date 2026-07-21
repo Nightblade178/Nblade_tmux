@@ -11,3 +11,4 @@ I use tmux with Ghostty so thats why the other lines exist apart from just color
 ```bash
 ./install.sh
 ```
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/6c0fe518-4c79-46f1-b14d-470d2b936dab" />
